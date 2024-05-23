@@ -1,1 +1,1 @@
-playlist management applicatino
+playlist management application
